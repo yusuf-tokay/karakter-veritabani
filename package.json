@@ -1,0 +1,14 @@
+{
+  "name": "karakter_veritabani",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Karakter veritabanı yönetimi",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/initializeCharacters.js",
+    "init-db": "node src/initializeCharacters.js"
+  },
+  "dependencies": {
+    "firebase": "^10.8.0"
+  }
+}
