@@ -6,8 +6,8 @@ Bu proje, karakterlerin özelliklerini ve kullanıcı ilerlemelerini takip eden 
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/yusuf-tokay/karakter-veritabani.git
-cd karakter-veritabani
+git clone https://github.com/FlyAR-Game/database.git
+cd database
 ```
 
 2. Gerekli paketleri yükleyin:
@@ -86,4 +86,4 @@ service cloud.firestore {
 
 ## İletişim
 
-Sorularınız için: [E-POSTA_ADRESİNİZ] 
+FlyAR Game Development Team 
